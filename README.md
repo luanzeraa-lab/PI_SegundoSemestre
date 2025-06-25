@@ -8,7 +8,7 @@ O Achamigos visa conectar pessoas interessadas em adotar animais a abrigos, ONGs
 
 ## 📁 Conteúdos
 
-- 📄 [Documentação PDF](documentacao.pdf)  
-- 🧩 [Código-fonte ZIP](codigo-fonte.zip)  
-- 🎬 [Vídeo de Apresentação (Produto)](video-apresentacao.mp4)  
-- 💾 [Script do Banco de Dados](script-banco.sql)
+- 📄 [Documentação PDF] 
+- 🧩 [Código-fonte ZIP]
+- 🎬 [Vídeo de Apresentação (Produto)]
+- 💾 [Script do Banco de Dados]
